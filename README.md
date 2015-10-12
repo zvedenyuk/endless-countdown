@@ -1,7 +1,7 @@
 # Endless countdown
 A simple and beautiful endless countdown timer for landing pages. You set the date to countown to once and when the date passes it adds 3 days so that the time is always positive. This script is useful for landing pages to set an offer deadline date.
 
-Demo: http://44px.ru/labs/countdown/demo.html
+Demo: http://emdigital.ru/labs/countdown/demo.html
 
 ## Setup
 
