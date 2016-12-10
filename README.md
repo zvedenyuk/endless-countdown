@@ -9,11 +9,7 @@ The script uses jQuery. Include it as well as the script file. Add these lines t
 
 ```html
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
-<script src="endless-countdown/js.js"></script>
-```
-Also, don't forget to link styles:
-```html
-<link href="endless-countdown/style.css" rel="stylesheet" type="text/css">
+<script src="endless-countdown.js"></script>
 ```
 
 On the webpage place this `html` code where you want your countdown timer to show up. Set your first desired date in the `date` attribute:
@@ -21,9 +17,9 @@ On the webpage place this `html` code where you want your countdown timer to sho
 <div class="endless_countdown" date="300914">
 	<div></div>
 	<div></div>
-	<img src="endless-countdown/counterDotsBlack.png" />
+	<span class="endless_countdown_dots_black"></span>
 	<div></div>
-	<img src="endless-countdown/counterDotsBlack.png" />
+	<span class="endless_countdown_dots_black"></span>
 	<div></div>
 </div>
 ```

@@ -1,5 +1,0 @@
-.endless_countdown{ text-align: center; margin-top: 25px; font-family: Helvetica, Arial, sans-serif; }
-.endless_countdown img{ margin: -20px -20px 0px 17px; vertical-align: middle; }
-.endless_countdown div{ display: inline-block; padding-top: 20px; color: #000; font-size: 38px; margin-right: -37px; vertical-align: middle; width: 100px; height: 90px; background-image: url('counter.png'); }
-.endless_countdown div:first-of-type{ margin-left: -37px; }
-.endless_countdown div:last-of-type{ margin-right: -37px; color: #c22; }
