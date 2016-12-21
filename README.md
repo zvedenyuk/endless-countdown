@@ -23,10 +23,3 @@ On the webpage place this `html` code where you want your countdown timer to sho
 	<div></div>
 </div>
 ```
-
-Finally, initialize timer like this:
-```js
-$(document).ready(function() {
-	endlessCountdown();
-});
-```
